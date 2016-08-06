@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/dorian/works/CardGame/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.cpp \
+  /Users/dorian/works/CardGame/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.h \
+  /Users/dorian/works/CardGame/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h \
+  /Users/dorian/works/CardGame/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/dorian/works/CardGame/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btSubSimplexConvexCast.h \
+  /Users/dorian/works/CardGame/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btConvexCast.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/LinearMath/btIDebugDraw.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/BulletCollision//NarrowPhaseCollision/btGjkPairDetector.h \
+  /Users/dorian/works/CardGame/cocos2d/external/bullet/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/dorian/works/CardGame/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h
